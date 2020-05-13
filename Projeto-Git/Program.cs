@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Projeto_Git.Entities;
+using Projeto_Git.Entities.Enums;
+using System;
 
 namespace Projeto_Git
 {
@@ -6,7 +8,14 @@ namespace Projeto_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Order order = new Order
+            {
+                Id = 33,
+                Moment = DateTime.Today,
+                Status = OrderStatus.Delivered
+            };
+
+            Console.WriteLine(order);
         }
     }
 }

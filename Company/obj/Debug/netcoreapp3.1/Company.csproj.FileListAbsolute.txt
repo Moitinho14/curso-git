@@ -1,0 +1,13 @@
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.pdb
+C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache

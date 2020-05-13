@@ -1,0 +1,13 @@
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\bin\Debug\netcoreapp3.1\Projeto-Git.exe
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\bin\Debug\netcoreapp3.1\Projeto-Git.deps.json
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\bin\Debug\netcoreapp3.1\Projeto-Git.runtimeconfig.json
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\bin\Debug\netcoreapp3.1\Projeto-Git.runtimeconfig.dev.json
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\bin\Debug\netcoreapp3.1\Projeto-Git.dll
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\bin\Debug\netcoreapp3.1\Projeto-Git.pdb
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.csprojAssemblyReference.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.csproj.CoreCompileInputs.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.AssemblyInfoInputs.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.AssemblyInfo.cs
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.dll
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.pdb
+C:\Users\Moitinho\source\repos\Projeto-Git\Projeto-Git\obj\Debug\netcoreapp3.1\Projeto-Git.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+---STATUS---
+git status
+git log
+
+---COMMITAR---
+git add .
+git commit -m "Texto explicando modificacao"
+
+---VOLTAR COMMIT ATUAL---
+git clean -df
+git checkout -- .
+
+---REMOVER ULTIMO COMMIT, MANTENDO ALTERACOES NO ARQUIVO---
+git reset --soft HEAD~1
+
+---REMOVER ULTIMO COMMIT TOTALMENTE(CUIDADO)---
+git reset --hard HEAD~1
+
+---VISUALIZAR COMMIT ANTERIORES---
+git checkout <codigo do comando>
+
+---VOLTAR PARA O ULTIMO COMMIT---
+git checkout <codigo do branch>
+
+---ENVIAR REPOSITORIO LOCAL PARA O GITHUB---
+git push -u origin master(so na primeira vez)
+git push
+
+---COPIAR DO GITHUB PARA REPOSITORIO LOCAL---
+git clone <URI do repositorio remoto do github>
+
+---COMO ATUALIZAR O REPOSITORIO LOCAL---
+git pull origin master

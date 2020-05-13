@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\Projeto-Git.csproj": {}
+    "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Company\\Company.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\Projeto-Git.csproj": {
+    "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Company\\Company.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\Projeto-Git.csproj",
-        "projectName": "Projeto-Git",
-        "projectPath": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\Projeto-Git.csproj",
+        "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Company\\Company.csproj",
+        "projectName": "Company",
+        "projectPath": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Company\\Company.csproj",
         "packagesPath": "C:\\Users\\Moitinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\obj\\",
+        "outputPath": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Company\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
