@@ -11,3 +11,16 @@ C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Compa
 C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.dll
 C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.pdb
 C:\Users\Moitinho\source\repos\Projeto-Git\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.pdb
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache

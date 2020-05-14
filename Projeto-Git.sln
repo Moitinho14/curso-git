@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto-Git", "Projeto-Git\Projeto-Git.csproj", "{3DDBA1A4-09BB-47BC-91CC-207FEE3FF595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company", "Company\Company.csproj", "{87268632-3EC4-4D30-8FF2-D6934006F306}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company", "Company\Company.csproj", "{87268632-3EC4-4D30-8FF2-D6934006F306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customs", "Customs\Customs.csproj", "{6A12C7B5-B0EC-4020-8EF2-6EFB181D6535}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{87268632-3EC4-4D30-8FF2-D6934006F306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87268632-3EC4-4D30-8FF2-D6934006F306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87268632-3EC4-4D30-8FF2-D6934006F306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A12C7B5-B0EC-4020-8EF2-6EFB181D6535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A12C7B5-B0EC-4020-8EF2-6EFB181D6535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A12C7B5-B0EC-4020-8EF2-6EFB181D6535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A12C7B5-B0EC-4020-8EF2-6EFB181D6535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

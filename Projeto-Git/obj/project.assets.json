@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Moitinho\\.nuget\\packages\\": {}
+    "C:\\Users\\domingos.moitinho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\Projeto-Git.csproj",
+      "projectUniqueName": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\Projeto-Git.csproj",
       "projectName": "Projeto-Git",
-      "projectPath": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\Projeto-Git.csproj",
-      "packagesPath": "C:\\Users\\Moitinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moitinho\\source\\repos\\Projeto-Git\\Projeto-Git\\obj\\",
+      "projectPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\Projeto-Git.csproj",
+      "packagesPath": "C:\\Users\\domingos.moitinho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Moitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\domingos.moitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

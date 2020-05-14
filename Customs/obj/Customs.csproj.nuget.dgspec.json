@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\Projeto-Git.csproj": {}
+    "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\Customs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\Projeto-Git.csproj": {
+    "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\Customs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\Projeto-Git.csproj",
-        "projectName": "Projeto-Git",
-        "projectPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\Projeto-Git.csproj",
+        "projectUniqueName": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\Customs.csproj",
+        "projectName": "Customs",
+        "projectPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\Customs.csproj",
         "packagesPath": "C:\\Users\\domingos.moitinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Projeto-Git\\obj\\",
+        "outputPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domingos.moitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Company\\Company.csproj",
-      "projectName": "Company",
-      "projectPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Company\\Company.csproj",
+      "projectUniqueName": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\Customs.csproj",
+      "projectName": "Customs",
+      "projectPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\Customs.csproj",
       "packagesPath": "C:\\Users\\domingos.moitinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Company\\obj\\",
+      "outputPath": "C:\\Users\\domingos.moitinho\\source\\repos\\ConsoleApp1\\curso-git\\Customs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\domingos.moitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",

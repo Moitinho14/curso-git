@@ -1,0 +1,13 @@
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\bin\Debug\netcoreapp3.1\Customs.exe
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\bin\Debug\netcoreapp3.1\Customs.deps.json
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\bin\Debug\netcoreapp3.1\Customs.runtimeconfig.json
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\bin\Debug\netcoreapp3.1\Customs.runtimeconfig.dev.json
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\bin\Debug\netcoreapp3.1\Customs.dll
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\bin\Debug\netcoreapp3.1\Customs.pdb
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.csprojAssemblyReference.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.csproj.CoreCompileInputs.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.AssemblyInfoInputs.cache
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.AssemblyInfo.cs
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.dll
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.pdb
+C:\Users\domingos.moitinho\source\repos\ConsoleApp1\curso-git\Customs\obj\Debug\netcoreapp3.1\Customs.genruntimeconfig.cache
