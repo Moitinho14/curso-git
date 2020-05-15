@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\C#\\curso-git\\Company\\Company.csproj",
-      "projectName": "Company",
-      "projectPath": "C:\\Users\\Moitinho\\source\\repos\\C#\\curso-git\\Company\\Company.csproj",
+      "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\C#\\curso-git\\Taxes\\Taxes.csproj",
+      "projectName": "Taxes",
+      "projectPath": "C:\\Users\\Moitinho\\source\\repos\\C#\\curso-git\\Taxes\\Taxes.csproj",
       "packagesPath": "C:\\Users\\Moitinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moitinho\\source\\repos\\C#\\curso-git\\Company\\obj\\",
+      "outputPath": "C:\\Users\\Moitinho\\source\\repos\\C#\\curso-git\\Taxes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moitinho\\AppData\\Roaming\\NuGet\\NuGet.Config",

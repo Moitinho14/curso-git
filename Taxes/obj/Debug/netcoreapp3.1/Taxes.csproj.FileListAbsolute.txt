@@ -1,0 +1,13 @@
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\bin\Debug\netcoreapp3.1\Taxes.exe
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\bin\Debug\netcoreapp3.1\Taxes.deps.json
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\bin\Debug\netcoreapp3.1\Taxes.runtimeconfig.json
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\bin\Debug\netcoreapp3.1\Taxes.runtimeconfig.dev.json
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\bin\Debug\netcoreapp3.1\Taxes.dll
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\bin\Debug\netcoreapp3.1\Taxes.pdb
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.csprojAssemblyReference.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.csproj.CoreCompileInputs.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.AssemblyInfoInputs.cache
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.AssemblyInfo.cs
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.dll
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.pdb
+C:\Users\Moitinho\source\repos\Projeto-Git\curso-git\Taxes\obj\Debug\netcoreapp3.1\Taxes.genruntimeconfig.cache
